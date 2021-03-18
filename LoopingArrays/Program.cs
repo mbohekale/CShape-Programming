@@ -10,23 +10,14 @@ namespace Looping.cs
     {
         static void Main(string[] args)
         {
-            for (int i=0; i<10; i++)
+
+            string[] names = new string[] {"John","James","Peter","Mary","Rose"};
+            foreach (var name in names)
             {
-                if (i==7)
-                {
-                    Console.WriteLine("Not Found! ");
-                    break;
-                }
-               
+                Console.WriteLine("Names of Students are : "+name);
             }
-
-            for (int y = 0; y < 12; y++)
-            {
-                Console.WriteLine(y);
-
-            }
-
-            Console.ReadLine();
+            
+           Console.ReadLine();
         }
     }
 }
