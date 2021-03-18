@@ -1,0 +1,6 @@
+C:\Users\Student288\Desktop\CSharpProject\Methods.cs\Methods.cs\bin\Debug\Methods.cs.exe.config
+C:\Users\Student288\Desktop\CSharpProject\Methods.cs\Methods.cs\bin\Debug\Methods.cs.exe
+C:\Users\Student288\Desktop\CSharpProject\Methods.cs\Methods.cs\bin\Debug\Methods.cs.pdb
+C:\Users\Student288\Desktop\CSharpProject\Methods.cs\Methods.cs\obj\Debug\Methods.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student288\Desktop\CSharpProject\Methods.cs\Methods.cs\obj\Debug\Methods.cs.exe
+C:\Users\Student288\Desktop\CSharpProject\Methods.cs\Methods.cs\obj\Debug\Methods.cs.pdb
